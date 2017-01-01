@@ -1,5 +1,7 @@
 # Node.js security basics
 
+[Csaba Palfi](https://csabapalfi.github.io), Sep 2014
+
 **Node is not different.** All **humans writing code are an un-patched vulnerability**. There will always be vulnerabilities but what matters is your **process** dealing with them. Learn, fix, repeat. Here are some basic tips:
 
 ## 1. know OWASP Top 10
@@ -51,3 +53,5 @@ Some [more security tips](http://blog.risingstack.com/node-js-security-tips/) we
 ## Thanks
 
 [Adam Baldwin](https://twitter.com/adam_baldwin) (from [^Lift](http://liftsecurity.io)), his two talks at [LNUG](http://lnug.org/) and [London Node Security Meetup](http://attending.io/events/node-security-project-meetup) inspired this post.
+
+![](https://ga-beacon.appspot.com/UA-29212656-1/node-security-basics?pixel)
